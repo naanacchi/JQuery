@@ -14,7 +14,7 @@ h2 {
 }
 ul {
     margin: 20px;
-    /*list-style-image: url('code.png');*/
+    list-style-image: url('../graphics/code.png');
     /*użyty selektor list-style-image określa plik grafizcny, który ma zostać użyty jako znacznik elementu listy*/
 }
 li {
