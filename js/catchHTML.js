@@ -10,4 +10,6 @@ $(function(){
 
     const $lista_li = $('li').find('#pierwszy').text();
     console.log($lista_li);
+
+    // przechwytywanie kodu html i tekstu
 })
