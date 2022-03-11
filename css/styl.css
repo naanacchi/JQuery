@@ -24,3 +24,17 @@ li {
 img {
     width:300px;
 }
+.link{
+    color:grey;
+    text-decoration: none;
+}
+.inny_link{
+    background-color: black;
+}
+.jeszcze_inny_link
+{
+    background-color: yellow;
+}
+span{
+    display:none;
+}
