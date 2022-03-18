@@ -1,40 +1,55 @@
-h2 {
-    font-family: Arial;
+#span{
+    display: none;
 }
-#container {
+#span1{
+    display: none;
+}
+#span2{
+    display: none;
+}
+span{
+    font-size: 22px;
+}
+#container{
     width: 700px;
     margin: 0 auto;
 }
-#page {
+
+#container2{
+    width: 700px;
+    margin: 0 auto;
+}
+#page{
     font-size: 150%;
     text-align: center;
     padding: 20px;
     border: 1px solid black;
-    background-color: whitesmoke;
+    background-color: white;
 }
-ul {
-    margin: 20px;
-    list-style-image: url('../graphics/code2.png');
-    /*użyty selektor list-style-image określa plik grafizcny, który ma zostać użyty jako znacznik elementu listy*/
+#zew{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: #ccccff;
 }
-li {
-    padding: 5px;
-    margin-bottom: 2px;
+#wew{
+    width: 60%;
+    height: 100px;
+    background-color: blue;
+    margin: 30px auto;
 }
-img {
-    width:300px;
+h2{
+    background-color: blue;
+    border: 1px solid black;
 }
-.link{
-    color:grey;
-    text-decoration: none;
+#page3{
+    font-size: 150%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
 }
-.inny_link{
-    background-color: black;
-}
-.jeszcze_inny_link
-{
-    background-color: yellow;
-}
-span{
-    display:none;
+#container3{
+    width: 700px;
+    margin: 0 auto;
 }
