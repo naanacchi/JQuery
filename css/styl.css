@@ -15,11 +15,12 @@ span{
     margin: 0 auto;
 }
 
-#container2{
+#image{
     width: 700px;
     margin: 0 auto;
 }
 #page{
+    height: 250px;
     font-size: 150%;
     text-align: center;
     padding: 20px;
